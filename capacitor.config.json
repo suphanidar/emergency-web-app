@@ -1,0 +1,6 @@
+{
+  "appId": "com.supanida.wastesort",
+  "appName": "WasteSortAI",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
